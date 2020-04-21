@@ -1,0 +1,2 @@
+module KiotVietHelper
+end
